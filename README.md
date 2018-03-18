@@ -19,4 +19,14 @@ This git is built for Tianchi competition
       同时赛题暂且只考虑影响无人飞行器坠毁的两个天气因素：风速和降雨量。当风速值≥15时，或者降雨量≥4时，无人机坠毁。
 
 
-## 工作总结近期整理得出：将从两个方面分别对赛题做出介绍分析：天气（降雨）预测部分，以及寻路算法部分。
+## 工作总结近期整理得出（ing）：将从两个方面分别对赛题做出介绍分析：天气（降雨）预测部分，以及寻路算法部分。
+```java
+//datapre.py 官方数据预处理文件
+//version2.0 多进程版本寻路算法
+//version 5.4 GPU加速版本的概率DJ寻路
+//bag.py 背包算法 预计得分已经畅通的路径
+//map_visualize 地图可视化文件
+```
+## 最后，以我们的梯度图下的可视化路径代表我们这次的努力，从中可以看出，自然界的风速与降雨很美~我们的算法也很迷人。
+
+![avatar](https://github.com/luozheming/TIANCHI/blob/master/wind_rainfall_grid_view.jpg)
