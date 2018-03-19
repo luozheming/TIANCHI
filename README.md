@@ -27,6 +27,6 @@ This git is built for Tianchi competition
 //bag.py 背包算法 预计得分已经畅通的路径
 //map_visualize 地图可视化文件
 ```
-## 最后，以我们的梯度图下的可视化路径代表我们这次的努力，从中可以看出，自然界的风速与降雨很美~我们的算法也很迷人。
+## 最后，以我们的梯度图下的可视化路径作为封面，自然界的风速与降雨很美~我们的算法也很迷人。
 
 ![avatar](https://github.com/luozheming/TIANCHI/blob/master/wind_rainfall_grid_view.jpg)
